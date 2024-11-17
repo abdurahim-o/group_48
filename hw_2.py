@@ -14,7 +14,7 @@ class Figure:
 
 
 
-class Square(Figure):
+class claquare(Figure):
 
     def __init__(self,side_length):
         self.__side_length = side_length
